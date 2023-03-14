@@ -1,1 +1,1 @@
-# Raspberri-pi-pico-y-SSD1306-OLED-display
+# Raspberry-pi-pico-y-SSD1306-OLED-display
