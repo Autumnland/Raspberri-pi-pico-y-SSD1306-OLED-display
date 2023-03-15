@@ -8,7 +8,7 @@ La Raspberry Pi Pico cuenta con 264KB de RAM y 2MB de almacenamiento flash QSPI,
 
 En resumen, la Raspberry Pi Pico es una placa de desarrollo compacta y asequible que puede ser utilizada en una amplia variedad de proyectos de electrónica y programación, desde proyectos de robótica hasta proyectos de Internet de las cosas y más.
 
-![image](https://user-images.githubusercontent.com/112134604/225466320-37058ca3-8d43-4f74-a2d6-4681229017f5.png)
+<a><img src="https://user-images.githubusercontent.com/112134604/225466320-37058ca3-8d43-4f74-a2d6-4681229017f5.png" width="300" height="250"/></a>
 
 ## Cuales son las partes que componen a la raspberry pi pico w?
 
