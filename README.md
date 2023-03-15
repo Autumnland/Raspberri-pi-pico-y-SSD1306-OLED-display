@@ -1,5 +1,3 @@
-# Raspberry pi pico y SSD1306 OLED display
-
 ## Para empezar veremos ¿Que es la raspberry pi pico?
 
 La Raspberry Pi Pico es una pequeña placa de desarrollo de bajo costo diseñada por la fundación Raspberry Pi. Es una placa de circuito impreso con un microcontrolador RP2040 de doble núcleo de 32 bits a 133 MHz, y está diseñada para ser programable y personalizable para una amplia variedad de proyectos.
