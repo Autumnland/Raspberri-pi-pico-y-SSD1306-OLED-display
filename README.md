@@ -1,3 +1,4 @@
+
 ## Para empezar veremos ¿Que es la raspberry pi pico?
 
 La Raspberry Pi Pico es una pequeña placa de desarrollo de bajo costo diseñada por la fundación Raspberry Pi. Es una placa de circuito impreso con un microcontrolador RP2040 de doble núcleo de 32 bits a 133 MHz, y está diseñada para ser programable y personalizable para una amplia variedad de proyectos.
@@ -8,7 +9,7 @@ En resumen, la Raspberry Pi Pico es una placa de desarrollo compacta y asequible
 
 <a><img src="https://user-images.githubusercontent.com/112134604/225466320-37058ca3-8d43-4f74-a2d6-4681229017f5.png" width="300" height="250"/></a>
 
-## Cuales son las partes que componen a la raspberry pi pico w?
+## ¿Cuales son las partes que componen a la raspberry pi pico w?
 
 No existe una Raspberry Pi Pico W oficial por parte de la fundación Raspberry Pi. Sin embargo, algunos fabricantes externos han creado versiones de la Raspberry Pi Pico con conectividad inalámbrica, como Wi-Fi y Bluetooth, que han sido llamadas Raspberry Pi Pico W.
 
@@ -29,3 +30,15 @@ En general, estas versiones personalizadas de la Raspberry Pi Pico pueden inclui
 7. LED indicador: La Raspberry Pi Pico W probablemente tenga el mismo LED indicador que la Raspberry Pi Pico original.
 
 En resumen, la Raspberry Pi Pico W es una versión personalizada de la Raspberry Pi Pico que incluye conectividad inalámbrica. Las partes específicas que componen la Raspberry Pi Pico W pueden variar dependiendo del fabricante y del modelo exacto de la placa.
+
+## ¿Que es la SSD OLED display?
+
+El SSD1306 OLED display es un tipo de pantalla OLED monocromática de bajo consumo y tamaño compacto, que puede ser utilizada en una amplia variedad de proyectos de electrónica y programación.
+
+El controlador SSD1306 es el chip que controla la pantalla OLED. Este chip puede manejar pantallas OLED de diferentes tamaños y resoluciones, y se comunica a través de protocolos de comunicación como I2C o SPI.
+
+Las pantallas OLED son diferentes de las pantallas LCD convencionales, ya que no requieren una retroiluminación para mostrar imágenes. En cambio, cada píxel en una pantalla OLED se ilumina de forma individual, lo que resulta en una mayor eficiencia energética y un contraste más alto.
+
+El SSD1306 OLED display se puede encontrar en diferentes tamaños y resoluciones, desde pequeñas pantallas de 0,96 pulgadas hasta pantallas más grandes de 1,3 pulgadas y 1,5 pulgadas. Estas pantallas son populares en proyectos de electrónica y programación donde se requiere una pantalla compacta y de bajo consumo, como en relojes, medidores, indicadores, y dispositivos portátiles.
+
+En resumen, el SSD1306 OLED display es una pantalla OLED monocromática de bajo consumo y tamaño compacto que puede ser controlada a través del chip controlador SSD1306 utilizando protocolos de comunicación como I2C o SPI.
