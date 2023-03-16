@@ -59,3 +59,15 @@ El SSD1306 OLED display es una pantalla OLED monocromática que consta de las si
 4. Conectores de datos: La pantalla OLED también tiene conectores de datos que permiten la comunicación con el chip controlador SSD1306.
 
 5. Componentes adicionales: Dependiendo del fabricante, la pantalla OLED puede incluir componentes adicionales, como resistencias y capacitores, para un correcto funcionamiento y protección.
+
+## Ejemplo del uso del SSD1306 OLED display con la Raspberry pi pico:
+
+Forma en la que fue hecho:
+
+<a><img src="https://user-images.githubusercontent.com/112134604/225474759-69af5a12-6309-42a3-a004-530935930047.png" width="250" height="200"/></a>
+
+En funcionamiento:
+
+<a><img src="https://user-images.githubusercontent.com/112134604/225476665-2ef1d445-d6d6-4949-b5d4-f2310c014443.png" width="250" height="200"/></a>
+
+Enlace del ejemplo del uso de los componentes: https://wokwi.com/projects/339905778750063187
