@@ -70,4 +70,4 @@ En funcionamiento:
 
 <a><img src="https://user-images.githubusercontent.com/112134604/225476665-2ef1d445-d6d6-4949-b5d4-f2310c014443.png" width="250" height="200"/></a>
 
-Enlace del ejemplo del uso de los componentes: https://wokwi.com/projects/339905778750063187
+Enlace del ejemplo del uso de los componentes: <A HREF="https://wokwi.com/projects/339905778750063187"> Da un clic aqui </A>
